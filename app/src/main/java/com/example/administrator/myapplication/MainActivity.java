@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
     private ImageView mImageView;
     private ImageView mImageView23;
     private ImageView mImageView3;
+    private ImageView mImageView32;
+    private ImageView mImageView34;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
