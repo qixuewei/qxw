@@ -12,8 +12,12 @@ public class MainActivity extends AppCompatActivity {
     private TextView mTextView;
     private TextView mTextView1;
     private TextView mTextView2;
-    private ImageView mImageView;
     private ImageView mImageView1;
+    private ImageView mImageView23;
+    private ImageView mImageView3;
+    private ImageView mImageView3243;
+    private ImageView mImageView3324;
+    private ImageView mImageView3423;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
