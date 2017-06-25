@@ -9,6 +9,8 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     private TextView mTextView;
+    private TextView mTextView1;
+    private TextView mTextView2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
